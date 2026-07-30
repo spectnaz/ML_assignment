@@ -1,0 +1,2 @@
+Algorithm,N Clusters,Silhouette,Davies-Bouldin,Calinski-Harabasz,Noise %
+KMeans,10,0.1283,1.5692,98943.9,0.0
