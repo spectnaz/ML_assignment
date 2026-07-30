@@ -1,0 +1,5 @@
+Stage,Best Model,Status,R²,RMSE,Accuracy,F1,Silhouette,DB Index,Eval Reward,SLA Viol %
+Regression,Linear Regression,✅ Complete,0.0,28.885,,,,,,
+Classification,Logistic Regression,✅ Complete,,,0.9999,0.9999,,,,
+Clustering,KMeans,✅ Complete,,,,,0.1283,1.5692,,
+RL (DQN),DQN,✅ Complete,,,,,,,18.9,0.4

@@ -1,0 +1,25 @@
+{
+  "project": "ML_Assignment",
+  "stages": {
+    "regression": {
+      "best_model": "Linear Regression",
+      "best_r2": 0.0,
+      "best_rmse": 28.885
+    },
+    "classification": {
+      "best_model": "Logistic Regression",
+      "best_acc": 0.9999,
+      "best_f1": 0.9999
+    },
+    "clustering": {
+      "best_algorithm": "KMeans",
+      "silhouette": 0.1283,
+      "davies_bouldin": 1.5692
+    },
+    "rl": {
+      "best_agent": "DQN",
+      "eval_mean_reward": 18.9,
+      "sla_violation_%": 0.4
+    }
+  }
+}
